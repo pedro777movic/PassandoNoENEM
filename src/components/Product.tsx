@@ -29,7 +29,7 @@ const Product: React.FC = () => {
               
               <div className="mt-8 p-6 bg-gradient-to-r from-cyan-600/20 to-purple-600/20 border border-cyan-500/30 rounded-lg">
                 <p className="text-cyan-300 font-semibold text-center">
-                  📚 São 4 módulos com aulas diretas ao ponto.
+                  📚 São 7 módulos com aulas direto ao ponto.
                 </p>
               </div>
             </div>
