@@ -49,7 +49,7 @@ const Header: React.FC = () => {
           <div className="mt-12">
             <div className="w-80 h-60 mx-auto rounded-lg border border-cyan-500/30 overflow-hidden">
               <img 
-                src="https://i.imgur.com/5sXwgw6.jpeg" 
+                src="https://i.imgur.com/HlT7fSg.png" 
                 alt="Estudantes focados preparando-se para o ENEM"
                 className="w-full h-full object-cover"
               />
