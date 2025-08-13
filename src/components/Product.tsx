@@ -3,7 +3,7 @@ import { CheckCircle, Play } from 'lucide-react';
 
 const Product: React.FC = () => {
   const features = [
-    "📅 Cronograma Personalizado — adaptado ao seu tempo disponível.",
+    "📓 Estratégias para o ENEM, Linguagens e Códigos, Matemática e Ciências da Natureza",
     "🗺 Mapa dos Assuntos Mais Cobrados no ENEM.",
     "🧠 Técnicas de Memorização Acelerada.",
     "✍ Treinamento de Redação Nota 1000.",
