@@ -3,7 +3,7 @@ import { CheckCircle, Play } from 'lucide-react';
 
 const Product: React.FC = () => {
   const features = [
-    "📅 Cronograma Personalizado — adaptado ao seu tempo disponível.",
+    "📓 Estratégias para o ENEM, Linguagens e Códigos, Matemática e Ciências da Natureza",
     "🗺 Mapa dos Assuntos Mais Cobrados no ENEM.",
     "🧠 Técnicas de Memorização Acelerada.",
     "✍ Treinamento de Redação Nota 1000.",
@@ -29,7 +29,7 @@ const Product: React.FC = () => {
               
               <div className="mt-8 p-6 bg-gradient-to-r from-cyan-600/20 to-purple-600/20 border border-cyan-500/30 rounded-lg">
                 <p className="text-cyan-300 font-semibold text-center">
-                  📚 São 4 módulos com aulas diretas ao ponto.
+                  📚 São 7 módulos com aulas direto ao ponto.
                 </p>
               </div>
             </div>

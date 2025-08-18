@@ -43,7 +43,7 @@ const PainPoints: React.FC = () => {
           <div className="mt-8">
             <div className="w-32 h-32 mx-auto rounded-full border border-cyan-500/30 overflow-hidden">
               <img 
-                src="https://images.pexels.com/photos/267582/pexels-photo-267582.jpeg?auto=compress&cs=tinysrgb&w=400" 
+                src="https://i.imgur.com/DKudHqZ.png" 
                 alt="Júlio Maciel Machado - Especialista em preparação para ENEM"
                 className="w-full h-full object-cover"
               />
